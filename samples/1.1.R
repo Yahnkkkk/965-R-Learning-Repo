@@ -1,0 +1,5 @@
+print(5 + 5)
+name <- paste("placeholder", readline("Input"), sep = " * ")
+print(name)
+number <- sum(as.integer(readline("Num 1")), as.integer(readline("Num 2")))
+print(number)
